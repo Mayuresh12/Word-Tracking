@@ -1,1 +1,1 @@
-ARKIT 
+ARKIT Framework.
